@@ -1,0 +1,14 @@
+.me1 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: 5px solid blue;
+    border-radius: 15px;
+}
+
+.me2 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: 3px dotted green;
+}

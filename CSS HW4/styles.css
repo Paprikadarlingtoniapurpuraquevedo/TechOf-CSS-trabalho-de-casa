@@ -1,0 +1,11 @@
+ul {
+    background-color: red;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+li {
+    background-color: #ee7969;
+    margin: 5px;
+}
